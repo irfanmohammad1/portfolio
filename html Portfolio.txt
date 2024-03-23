@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Protfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="https://i.imgur.com/KvEuBiI.png" alt="slaman">
+        <h1>You Name</h1>
+        <p>Web Developer | Tech Enthusiast</p>
+    </header>
+    <section id="bio">
+        <h2>About Me</h2>
+        <p>[Your Biographic]</p>
+    </section>
+    <section id="work">
+        <h1>My Work</h1>
+        <div class="project" id="project1">Project 1</div>
+        <div class="project" id="Project2">Project 2</div>
+        <div class="project" id="Project3">Project 3</div>
+    </section>
+    <footer><p>Contact us</p></footer>
+</body>
+</html>
